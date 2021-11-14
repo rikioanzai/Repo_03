@@ -1,1 +1,2 @@
 Meu envio de anotação 3
+após checkout enviei para git
